@@ -99,6 +99,7 @@
 		FF49B2072A2F1AA200CE876C /* Swift */ = {
 			isa = PBXGroup;
 			children = (
+				FF4EC6682A2F2A7800197B77 /* New Group */,
 				FF49B2082A2F1AA200CE876C /* AppDelegate.swift */,
 				FF49B20A2A2F1AA200CE876C /* SceneDelegate.swift */,
 				FF49B20C2A2F1AA200CE876C /* ViewController.swift */,
@@ -125,6 +126,21 @@
 				FF49B22B2A2F1AA300CE876C /* SwiftUITestsLaunchTests.swift */,
 			);
 			path = SwiftUITests;
+			sourceTree = "<group>";
+		};
+		FF4EC6682A2F2A7800197B77 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				FF4EC6692A2F2A9E00197B77 /* New Group */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		FF4EC6692A2F2A9E00197B77 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -437,6 +453,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8VR72TQ57B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Swift/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -464,6 +481,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8VR72TQ57B;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Swift/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
